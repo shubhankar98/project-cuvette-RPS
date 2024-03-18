@@ -155,15 +155,12 @@ main{
   background-image: url("Group\ 2.png");
 
 }
-
 #scissor{
-  background-image: url("/purple.png")
+  background-image: url("Group\ 3.png")
 }
-
 #paper{
-  background-image: url("/orange.png");
+  background-image: url("Group\ 1.png");
 }
-
 /* /result */
 .result-zone {
   height: 90%;
@@ -237,13 +234,13 @@ main{
 }
 
 #user-scissor, #pc-scissor{
-  background-image: url("/purple.png");
+  background-image: url("Group\ 3.png");
   display: none;
 
 }
 
 #user-paper, #pc-paper{
-  background-image: url("/orange.png");
+  background-image: url("Group\ 1.png");
   display: none;
 }
 
