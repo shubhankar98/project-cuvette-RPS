@@ -237,13 +237,13 @@ main{
 }
 
 #user-scissor, #pc-scissor{
-  background-image: url("/Group\ 3.png");
+  background-image: url("orange.png");
   display: none;
 
 }
 
 #user-paper, #pc-paper{
-  background-image: url("/Group\ 1.png");
+  background-image: url("purple.png");
   display: none;
 }
 
