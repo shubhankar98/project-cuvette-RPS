@@ -230,7 +230,7 @@ main{
 }
 
 #user-rock, #pc-rock{
-  background-image: url("/Group\ 2.png");
+  background-image: url("Group\ 2.png");
 }
 
 #user-scissor, #pc-scissor{
